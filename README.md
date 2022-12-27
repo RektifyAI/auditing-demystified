@@ -10,3 +10,6 @@ VS Code
 
 ## Token standards
 [Token standards](https://ethereum.org/en/developers/docs/standards/tokens/)
+
+## Eth Best Practices
+[List from Consensys](https://consensys.github.io/smart-contract-best-practices/)
