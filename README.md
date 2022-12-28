@@ -8,6 +8,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 [Code4rena](https://code4rena.com) </br>
 [ImmuneFi](https://immunefi.com) </br>
 [Hacken Proof](https://hackenproof.com) </br>
+[Paradigm CTF](https://ctf.paradigm.xyz) </br>
 
 ## IDEs
 Remix
