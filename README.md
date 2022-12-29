@@ -15,6 +15,7 @@ Remix
 VS Code
 
 ## Youtube Videos
+Bug Bounty Playlist: https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7
 
 ## Token standards
 [Token standards](https://ethereum.org/en/developers/docs/standards/tokens/)
