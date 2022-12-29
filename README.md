@@ -22,3 +22,4 @@ Bug Bounty Playlist: https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFU
 
 ## Eth Best Practices
 [List from Consensys](https://consensys.github.io/smart-contract-best-practices/)
+[Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
