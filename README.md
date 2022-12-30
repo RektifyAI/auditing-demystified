@@ -4,22 +4,23 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 [Quick Start](https://start.blockchainhax.com)
 
+## Youtube Videos
+[Bug Bounty Playlist](https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7)
+
+## IDEs
+[Remix](https://remix.ethereum.org/) </br>
+VS Code
+
+## Token standards
+[Token standards](https://ethereum.org/en/developers/docs/standards/tokens/)
+
+## ETH Ecosystem Best Practices
+[List from Consensys](https://consensys.github.io/smart-contract-best-practices/) </br>
+[Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
+
 ## Bug bounty programs
 [Code4rena](https://code4rena.com) </br>
 [ImmuneFi](https://immunefi.com) </br>
 [Hacken Proof](https://hackenproof.com) </br>
 [Paradigm CTF](https://ctf.paradigm.xyz) </br>
 
-## IDEs
-Remix
-VS Code
-
-## Youtube Videos
-Bug Bounty Playlist: https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7
-
-## Token standards
-[Token standards](https://ethereum.org/en/developers/docs/standards/tokens/)
-
-## Eth Best Practices
-[List from Consensys](https://consensys.github.io/smart-contract-best-practices/)
-[Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
