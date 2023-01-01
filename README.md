@@ -27,6 +27,7 @@ VS Code
 
 ## Bug bounty programs
 [Code4rena](https://code4rena.com) </br>
+[Sherlock](https://www.sherlock.xyz) </br>
 [ImmuneFi](https://immunefi.com) </br>
 [Hacken Proof](https://hackenproof.com) </br>
 [Paradigm CTF](https://ctf.paradigm.xyz) </br>
