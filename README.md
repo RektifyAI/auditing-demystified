@@ -16,7 +16,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 ## IDEs
 [Remix](https://remix.ethereum.org/) </br>
-VS Code
+[VS Code](https://code.visualstudio.com/download)
 
 ## Token standards
 [Token standards](https://ethereum.org/en/developers/docs/standards/tokens/)
