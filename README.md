@@ -14,6 +14,9 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 ## Youtube Videos
 [Bug Bounty Playlist](https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7)
 
+## Articles
+[How to become a smart contract auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+
 ## IDEs
 [Remix](https://remix.ethereum.org/) </br>
 [VS Code](https://code.visualstudio.com/download)
