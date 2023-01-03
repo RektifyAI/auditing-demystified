@@ -29,9 +29,18 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 [Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
 
 ## Bug bounty programs
+----
+
+### CTFs
+[Paradigm CTF](https://ctf.paradigm.xyz) </br>
+[QuillAudits CTF](https://quillctf.super.site) </br>
+[Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz)
+[Ethernaut](https://ethernaut.openzeppelin.com)
+
+### Bug bounties
 [Code4rena](https://code4rena.com) </br>
 [Sherlock](https://www.sherlock.xyz) </br>
 [ImmuneFi](https://immunefi.com) </br>
 [Hacken Proof](https://hackenproof.com) </br>
-[Paradigm CTF](https://ctf.paradigm.xyz) </br>
+
 
