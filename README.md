@@ -13,6 +13,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 ## Youtube Videos
 [Bug Bounty Playlist](https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7)
+[Solidity Smart Contracts in 100 seconds](https://www.youtube.com/watch?v=kdvVwGrV7ec)
 
 ## Articles
 [How to become a smart contract auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
