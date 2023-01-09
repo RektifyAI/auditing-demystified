@@ -32,7 +32,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 [List from Consensys](https://consensys.github.io/smart-contract-best-practices/) </br>
 [Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
 
-## Bug bounty programs
+## Contest and Compete
 ----
 
 ### CTFs
