@@ -51,5 +51,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 [Sherlock](https://www.sherlock.xyz) </br>
 [ImmuneFi](https://immunefi.com) </br>
 [Hacken Proof](https://hackenproof.com) </br>
+[Sherlock](https://www.sherlock.xyz) </br>
+[Audit One -- Become an Auditor](https://www.auditone.io) </br>
 
 
