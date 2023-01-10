@@ -22,7 +22,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 [Secure Development Series](https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz)
 
 ## Articles
-[How to become a smart contract auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+[How to become a smart contract auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/) <br>
 [Solidity Learning: ```revert()```, ```assert()```, and ```require()``` in Solidity, and the New REVERT Opcode in the EVM](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 
 ## IDEs
@@ -43,7 +43,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 ### CTFs
 [Paradigm CTF](https://ctf.paradigm.xyz) </br>
 [QuillAudits CTF](https://quillctf.super.site) </br>
-[Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz)
+[Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz) </br>
 [Ethernaut](https://ethernaut.openzeppelin.com)
 
 ### Bug bounties
