@@ -10,7 +10,9 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 </p>
 
 ----
-
+## Ethereum Whitepaper
+[Whitepaper](https://ethereum.org/en/whitepaper/)
+[Use-case for Smart Contracts](https://www.youtube.com/watch?v=kdvVwGrV7ec)
 ## Youtube Videos
 [Bug Bounty Playlist](https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7) </br>
 [Solidity Smart Contracts in 100 seconds](https://www.youtube.com/watch?v=kdvVwGrV7ec) </br>
