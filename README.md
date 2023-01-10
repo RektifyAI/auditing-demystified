@@ -23,6 +23,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 ## Articles
 [How to become a smart contract auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+[Solidity Learning: ```revert()```, ```assert()```, and ```require()``` in Solidity, and the New REVERT Opcode in the EVM](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 
 ## IDEs
 [Remix](https://remix.ethereum.org/) </br>
@@ -36,8 +37,8 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 [List from Consensys](https://consensys.github.io/smart-contract-best-practices/) </br>
 [Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
 
-## Contest and Compete
 ----
+## Contest and Compete
 
 ### CTFs
 [Paradigm CTF](https://ctf.paradigm.xyz) </br>
