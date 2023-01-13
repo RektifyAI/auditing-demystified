@@ -33,7 +33,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 ### Token standards
 [Token standards](https://ethereum.org/en/developers/docs/standards/tokens/)
 
-## ETH Ecosystem Best Practices
+### ETH Ecosystem Best Practices
 [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 [List from Consensys](https://consensys.github.io/smart-contract-best-practices/) </br>
 [Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
