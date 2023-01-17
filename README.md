@@ -36,10 +36,11 @@ Find more IDEs recommended by the Ethereum Foundation [here](https://ethereum.or
 ### Token standards
 [Token standards](https://ethereum.org/en/developers/docs/standards/tokens/)
 
-### ETH Ecosystem Best Practices
+### ETH Ecosystem Best Practices 
 [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 [List from Consensys](https://consensys.github.io/smart-contract-best-practices/) </br>
-[Smart Contract Weakness Classification and Test Cases](https://swcregistry.io)
+[Smart Contract Weakness Classification and Test Cases](https://swcregistry.io) </br>
+[Common Web3 Security Issues](https://github.com/YAcademy-Residents/CommonWeb3SecurityIssues) </br>
 
 ----
 ### Contest and Compete
