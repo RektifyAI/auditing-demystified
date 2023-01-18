@@ -46,17 +46,17 @@ Find more IDEs recommended by the Ethereum Foundation [here](https://ethereum.or
 ### Contest and Compete
 
 #### CTFs
-[Paradigm CTF](https://ctf.paradigm.xyz) </br>
-[QuillAudits CTF](https://quillctf.super.site) </br>
-[Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz) </br>
-[Ethernaut](https://ethernaut.openzeppelin.com)
+- [Paradigm CTF](https://ctf.paradigm.xyz) </br>
+- [QuillAudits CTF](https://quillctf.super.site) </br>
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz) </br>
+- [Ethernaut](https://ethernaut.openzeppelin.com)
 
 #### Bug bounties
-[Code4rena](https://code4rena.com) </br>
-[Sherlock](https://www.sherlock.xyz) </br>
-[ImmuneFi](https://immunefi.com) </br>
-[Hacken Proof](https://hackenproof.com) </br>
-[Sherlock](https://www.sherlock.xyz) </br>
-[Audit One - Become an Auditor](https://www.auditone.io) </br>
+- [Code4rena](https://code4rena.com) </br>
+- [Sherlock](https://www.sherlock.xyz) </br>
+- [ImmuneFi](https://immunefi.com) </br>
+- [Hacken Proof](https://hackenproof.com) </br>
+- [Sherlock](https://www.sherlock.xyz) </br>
+- [Audit One - Become an Auditor](https://www.auditone.io) </br>
 
 
