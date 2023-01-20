@@ -4,6 +4,8 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 [Quick Start](https://start.blockchainhax.com) 🎊
 
+----
+
 <!-- image -->
 <p align="center">
   <img src="Demystifying-1.jpg" alt="" width="500" class="center" style="margin-left: 100px;"/>
