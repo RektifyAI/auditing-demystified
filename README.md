@@ -2,7 +2,7 @@
 
 Becoming a smart contract auditor can be daunting if you don't know where to start. The truth is you don't have to come from a super technical background to become a smart contract auditor. The eye for detecting where things can go wrong is a strongsuit most auditors have to forsee vulnerabilities that can graduate to detrimental attacks. Here is a concise repo of auditing resources from Youtube videos, articles, docs, and exerpts to get you started on your bug hunting journey. Please share. Let's make Web3 a safer place. </br>
 
-[Quick Start](https://start.blockchainhax.com) 🎊
+- [ ] [Quick Start](https://start.blockchainhax.com) 🎊
 
 ----
 
@@ -48,17 +48,17 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 ### Contest and Compete
 
 #### CTFs
-- [Paradigm CTF](https://ctf.paradigm.xyz) </br>
-- [QuillAudits CTF](https://quillctf.super.site) </br>
-- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz) </br>
-- [Ethernaut](https://ethernaut.openzeppelin.com)
+- [ ] [Paradigm CTF](https://ctf.paradigm.xyz) </br>
+- [ ] [QuillAudits CTF](https://quillctf.super.site) </br>
+- [ ] [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz) </br>
+- [ ] [Ethernaut](https://ethernaut.openzeppelin.com)
 
 #### Bug bounties
 - [ ] [Code4rena](https://code4rena.com) </br>
 - [ ] [Sherlock](https://www.sherlock.xyz) </br>
 - [ ] [ImmuneFi](https://immunefi.com) </br>
-- [Hacken Proof](https://hackenproof.com) </br>
-- [Sherlock](https://www.sherlock.xyz) </br>
-- [Audit One - Become an Auditor](https://www.auditone.io) </br>
+- [ ] [Hacken Proof](https://hackenproof.com) </br>
+- [ ] [Sherlock](https://www.sherlock.xyz) </br>
+- [ ] [Audit One - Become an Auditor](https://www.auditone.io) </br>
 
 
