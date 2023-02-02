@@ -53,7 +53,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz) </br>
 - [ ] [Ethernaut](https://ethernaut.openzeppelin.com)
 
-#### Bug bounties
+#### Bug bounties (Earn :money: to hack)
 - [ ] [Code4rena](https://code4rena.com) </br>
 - [ ] [Sherlock](https://www.sherlock.xyz) </br>
 - [ ] [ImmuneFi](https://immunefi.com) </br>
