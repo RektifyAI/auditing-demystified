@@ -62,4 +62,8 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Sherlock](https://www.sherlock.xyz) </br>
 - [ ] [Audit One - Become an Auditor](https://www.auditone.io) </br>
 
+#### Reports
+- [X] [Code4rena Reports](https://code4rena.com/reports) </br>
+- [ ] [Sherlock Reports](https://github.com/orgs/sherlock-audit/repositories) </br>
+
 
