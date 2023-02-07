@@ -18,8 +18,8 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 ### Youtube Videos
 - [ ] [Bug Bounty Playlist](https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7) </br>
-- [ ] [Solidity Smart Contracts in 100 seconds](https://www.youtube.com/watch?v=kdvVwGrV7ec) </br>
-- [ ] [Smart Contract Security and Auditing 101 by Chainlink](https://www.youtube.com/watch?v=0aJfCug1zTM&list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7&index=6) </br>
+- [X] [Solidity Smart Contracts in 100 seconds](https://www.youtube.com/watch?v=kdvVwGrV7ec) </br>
+- [X] [Smart Contract Security and Auditing 101 by Chainlink](https://www.youtube.com/watch?v=0aJfCug1zTM&list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7&index=6) </br>
 - [ ] [32-Hour Course on Solidity](https://www.youtube.com/watch?v=gyMwXuJrbJQ) </br>
 - [ ] [Secureum Bootcamp - Ethereum 101](https://youtu.be/44qhIBMGMoM) </br>
 - [ ] [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4) </br>
@@ -63,6 +63,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Audit One - Become an Auditor](https://www.auditone.io) </br>
 
 #### Reports
+<b> Tips: </b> Read past reports to train muscle memory for identifying vulnerability architecture
 - [X] [Code4rena Reports](https://code4rena.com/reports) </br>
 - [ ] [Sherlock Reports](https://github.com/orgs/sherlock-audit/repositories) </br>
 
