@@ -64,6 +64,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 #### Public Reports
 <i> Tips: </b> Read past reports to train muscle memory for identifying vulnerability architecture </i> </br>
+
 <b> Bug bounties </b> </br>
 - [X] [Code4rena Reports](https://code4rena.com/reports) </br>
 - [ ] [Sherlock Reports](https://github.com/orgs/sherlock-audit/repositories) </br>
