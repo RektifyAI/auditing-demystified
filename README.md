@@ -62,10 +62,13 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Sherlock](https://www.sherlock.xyz) </br>
 - [ ] [Audit One - Become an Auditor](https://www.auditone.io) </br>
 
-#### Reports
-<b> Tips: </b> Read past reports to train muscle memory for identifying vulnerability architecture
+#### Public Reports
+<i> Tips: </b> Read past reports to train muscle memory for identifying vulnerability architecture </i>
+<b> Bug bounties </b>
 - [X] [Code4rena Reports](https://code4rena.com/reports) </br>
 - [ ] [Sherlock Reports](https://github.com/orgs/sherlock-audit/repositories) </br>
-- [ ] [Solidified Reports](https://github.com/solidified-platform/audits)
+
+<b> Auditing firms </b>
+- [ ] [Solidified Audits](https://github.com/solidified-platform/audits)
 
 
