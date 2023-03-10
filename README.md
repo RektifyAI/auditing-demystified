@@ -73,6 +73,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 <b> Auditing firms </b>
 - [ ] [Solidified Audits](https://github.com/solidified-platform/audits) </br>
 - [ ] [Chainsulting Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits) </br>
-- [ ] [Halborn Security Public Audits](https://github.com/HalbornSecurity/PublicReports)
+- [ ] [Halborn Security Public Audits](https://github.com/HalbornSecurity/PublicReports) </br>
+- [ ] [Techrate Audits](https://github.com/TechRate/Smart-Contract-Audits)
 
 
