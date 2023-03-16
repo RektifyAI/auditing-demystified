@@ -75,5 +75,6 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Chainsulting Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits) </br>
 - [ ] [Halborn Security Public Audits](https://github.com/HalbornSecurity/PublicReports) </br>
 - [ ] [Techrate Audits](https://github.com/TechRate/Smart-Contract-Audits)
+- [ ] [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
 
 
