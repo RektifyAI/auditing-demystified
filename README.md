@@ -23,7 +23,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Bug Bounty Playlist](https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7) </br>
 - [X] [Solidity Smart Contracts in 100 seconds](https://www.youtube.com/watch?v=kdvVwGrV7ec) </br>
 - [X] [Smart Contract Security and Auditing 101 by Chainlink](https://www.youtube.com/watch?v=0aJfCug1zTM&list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7&index=6)
-- [X} [EatTheBlocks: How to audit your smart contract code](https://www.youtube.com/watch?v=VAumxFQOU0o&list=LL&index=2&t=195s)
+- [X] [EatTheBlocks: How to audit your smart contract code](https://www.youtube.com/watch?v=VAumxFQOU0o&list=LL&index=2&t=195s)
 </br>
 
 - [ ] [32-Hour Course on Solidity](https://www.youtube.com/watch?v=gyMwXuJrbJQ) </br>
