@@ -84,5 +84,6 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Techrate Audits](https://github.com/TechRate/Smart-Contract-Audits) </br>
 - [ ] [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports) </br>
 - [ ] [Peckshield Audits](https://github.com/peckshield/publications/tree/master/audit_reports) </br>
+- [ ] [Guardian Audits](https://github.com/GuardianAudits/Audits/) </br>
 
 
