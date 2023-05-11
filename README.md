@@ -15,9 +15,10 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 ### Secure Smart Contract Development
 - [ ] [OpenZepplin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
-### Ethereum Whitepaper
+### Ethereum TL:DR
 - [ ] [Whitepaper](https://ethereum.org/en/whitepaper/) </br>
 - [ ] [Use-case for Smart Contracts](https://www.youtube.com/watch?v=kdvVwGrV7ec)
+- [ ] [Zellic 2023 Smart Contract Source Index](****)
 
 ### Youtube Videos
 - [ ] [Bug Bounty Playlist](https://youtube.com/playlist?list=PLKB0wJ6ZsFfHOFFJijZTdQFUvwMS6oZg7) </br>
