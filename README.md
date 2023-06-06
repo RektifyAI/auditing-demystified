@@ -88,5 +88,6 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Peckshield Audits](https://github.com/peckshield/publications/tree/master/audit_reports) </br>
 - [ ] [Guardian Audits](https://github.com/GuardianAudits/Audits/) </br>
 - [ ] [TechRate Audits](https://github.com/TechRate/Smart-Contract-Audits)
+- [ ] [Cyfrin Audits](https://github.com/Cyfrin/cyfrin-audit-reports)
 
 
