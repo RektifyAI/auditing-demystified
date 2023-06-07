@@ -42,6 +42,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Solidity Learning: ```revert()```, ```assert()```, and ```require()``` in Solidity, and the New REVERT Opcode in the EVM](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e) </br>
 - [ ] [Awesome Blockchain Security by xxxeyJ](https://github.com/xxxeyJ/Awesome-Blockchain-Security) </br>
 - [ ] [Check out Rekt.news Leaderboard!](https://rekt.news/leaderboard/) </br>
+- [ ] [All known smart contract-side and user-side attacks and vulnerabilities in Web3.0, DeFi, NFT and Metaverse + Bonus by Officer CIA](https://telegra.ph/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31) </br>
 
 ### IDEs
 - [ ] [Remix](https://remix.ethereum.org/) </br>
