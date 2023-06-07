@@ -43,6 +43,9 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Awesome Blockchain Security by xxxeyJ](https://github.com/xxxeyJ/Awesome-Blockchain-Security) </br>
 - [ ] [Check out Rekt.news Leaderboard!](https://rekt.news/leaderboard/) </br>
 - [ ] [All known smart contract-side and user-side attacks and vulnerabilities in Web3.0, DeFi, NFT and Metaverse + Bonus by Officer CIA](https://telegra.ph/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31) </br>
+<p align="center">
+  <img src="IMG_6906.PNG alt="" width="500" class="center" style="margin-left: 100px;"/>
+</p>
 
 ### IDEs
 - [ ] [Remix](https://remix.ethereum.org/) </br>
