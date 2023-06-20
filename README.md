@@ -1,4 +1,4 @@
-# How to get started as a auditor
+# How to get started as a smart contract auditor
 
 Becoming a smart contract auditor can be daunting if you don't know where to start. The truth is you don't have to come from a super technical background to become a smart contract auditor. The eye for detecting where things can go wrong is a strongsuit most auditors have to forsee vulnerabilities that can graduate to detrimental attacks. Here is a concise repo of auditing resources from Youtube videos, articles, docs, and exerpts to get you started on your bug hunting journey. Please share. Let's make Web3 a safer place. </br>
 
