@@ -36,6 +36,8 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [X] [Truffle](https://trufflesuite.com) </br>
 - [X] [Foundry](https://getfoundry.sh) </br>
 - [X] [Hardhat](https://hardhat.org) </br>
+- [X] [Brownie](https://eth-brownie.readthedocs.io/en/stable/) </br>
+
 
 ### Articles
 - [ ] [How to become a smart contract auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/) <br>
