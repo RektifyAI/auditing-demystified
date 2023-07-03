@@ -102,4 +102,5 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Cyfrin Audits](https://github.com/Cyfrin/cyfrin-audit-reports) </br>
 - [ ] [Mixbytes Audits](https://github.com/mixbytes/audits_public) </br>
 - [ ] [Pashov - Solo Audits](https://github.com/pashov/audits) </br>
+- [ ] [Omniscia Audits](https://omniscia.io) </br>
 
