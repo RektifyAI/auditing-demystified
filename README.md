@@ -30,14 +30,13 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Secureum Bootcamp - Ethereum 101](https://youtu.be/44qhIBMGMoM) </br>
 - [ ] [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4) </br>
 - [ ] [Secure Development Series](https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz)
-</br>
+
 
 ### Testing Frameworks
 - [X] [Truffle](https://trufflesuite.com) </br>
 - [X] [Foundry](https://getfoundry.sh) </br>
 - [X] [Hardhat](https://hardhat.org) </br>
 - [X] [Brownie](https://eth-brownie.readthedocs.io/en/stable/) </br>
-
 
 ### Articles
 - [ ] [How to become a smart contract auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/) <br>
