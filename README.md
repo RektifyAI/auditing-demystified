@@ -94,7 +94,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 |   |  |   | 
 | ------------- | ------------- | ------------- |
 | Content Cell  | [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)  | [Solidified Audits](https://github.com/solidified-platform/audits) | 
-| Content Cell  | [Peckshield Audits](https://github.com/peckshield/publications/tree/master/audit_reports)   | [Chainsulting Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits)   | 
+| [Paladin Security Audits](https://paladinsec.co/audits/)  | [Peckshield Audits](https://github.com/peckshield/publications/tree/master/audit_reports)   | [Chainsulting Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits)   | 
 | [Solid Proof Audits](https://github.com/solidproof/smart-contract-audits) | [Halborn Security Public Audits](https://github.com/HalbornSecurity/PublicReports)  | [Solid Proof Audits](https://github.com/solidproof/smart-contract-audits) |
 | [Omniscia Audits](https://omniscia.io)  | [Guardian Audits](https://github.com/GuardianAudits/Audits/)  | [Techrate Audits](https://github.com/TechRate/Smart-Contract-Audits)  |
 | [Pashov - Solo Audits](https://github.com/pashov/audits)  | [Mixbytes Audits](https://github.com/mixbytes/audits_public)  | [Cyfrin Audits](https://github.com/Cyfrin/cyfrin-audit-reports)  |
