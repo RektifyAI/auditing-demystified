@@ -54,6 +54,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [VS Code](https://code.visualstudio.com/download) </br>
 - [ ] [EthFiddle](https://ethfiddle.com) </br>
 - [ ] [ChainIDE](https://chainide.com) </br>
+- [ ] [Audit Wizard by Auditware](https://www.auditwizard.io) </br>
 - [ ] Find more IDEs recommended by the Ethereum Foundation [here](https://ethereum.org/en/developers/docs/ides/)
 
 ### Token standards
