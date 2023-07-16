@@ -86,13 +86,14 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 #### Public Reports
 <i> Tips: </b> Read past reports to train muscle memory to find common vulnerabilities that occur on smart contracts </i> </br>
 
-<b> Bug bounties </b> </br>
+<b> Bug bounties (Community-driven)  </b> </br>
 - [X] [Code4rena Reports](https://code4rena.com/reports) </br>
 - [ ] [Sherlock Reports](https://github.com/orgs/sherlock-audit/repositories) </br>
+- [ ] [Spearbit](https://github.com/spearbit/portfolio) </br>
 
 <b> Auditing firms </b>
 
-|   | Smart Contract Auditors |   | 
+|   | Smart Contract Auditing Firms |   | 
 | ------------- | ------------- | ------------- |
 | [bytes032 - Solo Audits](https://github.com/bytes032/portfolio) | [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)  | [Solidified Audits](https://github.com/solidified-platform/audits) | 
 | [Paladin Security Audits](https://paladinsec.co/audits/)  | [Peckshield Audits](https://github.com/peckshield/publications/tree/master/audit_reports)   | [Chainsulting Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits)   | 
