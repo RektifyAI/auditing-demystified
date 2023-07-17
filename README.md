@@ -93,7 +93,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 <b> Auditing firms </b>
 
-|   | Smart Contract Auditing Firms |   | 
+|   | Smart Contract Auditing Firms + Solos |   | 
 | ------------- | ------------- | ------------- |
 | [bytes032 - Solo Audits](https://github.com/bytes032/portfolio) | [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)  | [Solidified Audits](https://github.com/solidified-platform/audits) | 
 | [Paladin Security Audits](https://paladinsec.co/audits/)  | [Peckshield Audits](https://github.com/peckshield/publications/tree/master/audit_reports)   | [Chainsulting Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits)   | 
