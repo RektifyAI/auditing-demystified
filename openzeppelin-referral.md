@@ -11,7 +11,7 @@
 - Understand Typescript basics
 - Understand Serverless concepts and programming
 
-### Smart Contract Security - We are a security-focused company so we need team members that understand security best practices for web3.
+### Smart Contract Security - 
 
 - Read the Ethereum Smart Contract Security page
 - Practice finding common Solidity vulnerabilities in our Ethernaut CTF and the Damn Vulnerable DeFi challenge
