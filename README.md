@@ -47,6 +47,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [All known smart contract-side and user-side attacks and vulnerabilities in Web3.0, DeFi, NFT and Metaverse + Bonus by Officer CIA](https://telegra.ph/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31) </br>
 - [ ] [MEV Explore - Post-Merge](https://explore.flashbots.net)
 - [ ] [Unsafe Delegatecall (Part #2) | Hack Solidity #5](https://coinsbench.com/unsafe-delegatecall-part-2-hack-solidity-5-94dd32a628c7)
+- [ ] [Severity Classification System](https://immunefisupport.zendesk.com/hc/en-us/articles/13333032674961-Severity-Classification-System)
 
 <p align="center">
   <img src="IMG_6906.PNG" alt="Diagram of the back-end innerworkings of wallet software and node tech" width="500" class="center" style="margin-left: 100px;"/>
