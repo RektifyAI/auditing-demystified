@@ -82,6 +82,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 #### Bug bounties (Earn 🤑 to hack)
 - [ ] [Code4rena](https://code4rena.com) </br>
 - [ ] [Sherlock](https://www.sherlock.xyz) </br>
+- [ ] [CodeHawks](https://www.codehawks.com) </br>
 - [ ] [ImmuneFi](https://immunefi.com) </br>
 - [ ] [Hacken Proof](https://hackenproof.com) </br>
 - [ ] [Audit One - Become an Auditor](https://www.auditone.io) </br>
