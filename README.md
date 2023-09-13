@@ -13,7 +13,8 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 
 ----
 ### Secure Smart Contract Development
-- [ ] [OpenZepplin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [ ] [OpenZepplin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) </br>
+- [ ] [Defender 2.0 by OpenZepplin](https://docs.openzeppelin.com/defender/v2/) </br>
 
 ### Ethereum TL:DR
 - [ ] [Whitepaper](https://ethereum.org/en/whitepaper/) </br>
