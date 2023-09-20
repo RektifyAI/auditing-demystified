@@ -89,13 +89,13 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Hacken Proof](https://hackenproof.com) </br>
 - [ ] [Audit One - Become an Auditor](https://www.auditone.io) </br>
 
-#### Public Reports
-<i> Tips: </b> Read past reports to train muscle memory to find common vulnerabilities that occur on smart contracts </i> </br>
-
 <b> Bug bounties (Community-driven)  </b> </br>
 - [X] [Code4rena Reports](https://code4rena.com/reports) </br>
 - [ ] [Sherlock Reports](https://github.com/orgs/sherlock-audit/repositories) </br>
 - [ ] [Spearbit](https://github.com/spearbit/portfolio) </br>
+
+#### Public Reports
+<i> Tips: </b> Read past reports to train muscle memory to find common vulnerabilities that occur on smart contracts </i> </br>
 
 <b> Auditing firms </b>
 
