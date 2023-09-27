@@ -16,7 +16,7 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [OpenZepplin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) </br>
 - [ ] [Defender 2.0 by OpenZepplin](https://docs.openzeppelin.com/defender/v2/) </br>
 - [ ] [Ethereum Improvement Proposals(EIP)](https://eips.ethereum.org/erc) </br>
-- [ ] []()
+- [ ] [How to become a smart contract auditor | The complete roadmap 2023](https://www.cyfrin.io/blog/how-to-become-a-smart-contract-auditor)
 
 ### Ethereum TL:DR
 - [ ] [Whitepaper](https://ethereum.org/en/whitepaper/) </br>
