@@ -33,8 +33,8 @@ Becoming a smart contract auditor can be daunting if you don't know where to sta
 - [ ] [Secureum Bootcamp - Ethereum 101](https://youtu.be/44qhIBMGMoM) </br>
 - [ ] [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4) </br>
 - [ ] [Secure Development Series](https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz)
-- [ ] [Spearbit DAO Youtube](https://www.youtube.com/@Spearbit/videos)
-- [ ] [SolidityATL Web3 Security Fall '23 Session 3](https://www.youtube.com/watch?v=hCY5j8L3JQM)
+- [ ] [Spearbit DAO Youtube](https://www.youtube.com/@Spearbit/videos) </br>
+- [ ] [SolidityATL Web3 Security Fall '23 Session 3](https://www.youtube.com/watch?v=hCY5j8L3JQM) </br>
 
 
 ### Testing Frameworks
